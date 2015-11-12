@@ -1,0 +1,10 @@
+{
+  "name": "Behat tests for git@github.com:Gizra-Shoov/GPS-insight.git",
+  "description": "Functional testing for git@github.com:Gizra-Shoov/GPS-insight.git site.",
+  "require": {
+    "drupal/drupal-extension": "~3.0"
+  },
+  "config": {
+    "bin-dir": "bin/"
+  }
+}
